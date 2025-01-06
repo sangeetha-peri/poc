@@ -43,4 +43,3 @@ This code creates a Streamlit-based application with two main functionalities: d
 ### Dependencies:
 - Libraries like `PyPDF2` for PDF handling, `docx` for Word documents, LangChain for advanced text processing and retrieval, FAISS for vector search, and OpenAI's API for GPT-based operations.
 
-"# poc" 
